@@ -19,10 +19,8 @@ This project simulates a simple database monitoring environment with a customer,
 I built this project to gain hands-on SQL experience and better understand how databases work in practice.
 
 ## Tools Used
-
 - SQL Server Management Studio (SSMS)
 
 ## Additional Learning
-
-- SQL basics via Mimo
-- SQLBolt exercises
+- [SQL basics via Mimo](SQL-Mimo-Certificate.pdf)
+- [SQLBolt exercises](SQL-Exercises-SQLBolt.png)
